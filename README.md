@@ -8,16 +8,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green.svg)](https://www.mongodb.com/)
 [![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7.svg)](https://www.netlify.com/)
 
-## 📸 **Live Demo Screenshots**
-
-### 🏠 **Homepage - Smart Retail Recommendations**
-2.png
-*Beautiful gradient background with AI-powered product recommendations and intuitive navigation*
-
-### 📊 **Analytics Dashboard**
-1.png
-*Real-time sales predictions, category performance metrics, and hot deals section*
-
 ## ✨ **Unique Features**
 
 ### 🎨 **Super Animated Background**
