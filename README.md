@@ -53,8 +53,8 @@ Password: demo123
 ### **Option 2: Local Development**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/retailer-recommendation-system.git
-cd retailer-recommendation-system
+git clone https://github.com/harshith1476/ByteXL.git
+cd ByteXL
 
 # Backend setup
 python -m venv venv
@@ -205,7 +205,7 @@ See `MANUAL_DEPLOY.md` for detailed instructions
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/retailer-recommendation-system.git
+git clone https://github.com/harshith1476/ByteXL.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -234,16 +234,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Demo**: [Live Site](https://your-site.netlify.app)
 - **Email**: support@retailrecommend.com  
-- **Issues**: [GitHub Issues](https://github.com/yourusername/retailer-recommendation-system/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/retailer-recommendation-system/wiki)
+- **Issues**: [GitHub Issues](https://github.com/harshith1476/ByteXL/issues)
+- **Documentation**: [Wiki](https://github.com/harshith1476/ByteXL/wiki)
 
 ---
 
 **Built with ❤️ and cutting-edge AI technology for the future of retail** 🚀
 
 *Experience the magic of AI-powered shopping with beautiful animations and intelligent recommendations!*
-#   C I P H E R - N O V A - b y t e X l -  
- #   C I P H E R - N O V A - b y t e X l -  
- #   C I P H E R - N O V A - b y t e X l -  
- #   B y t e X L  
- 
+
+## 🏷️ **Project: ByteXL**
+**Repository**: [harshith1476/ByteXL](https://github.com/harshith1476/ByteXL)  
+**Updated**: September 2025
