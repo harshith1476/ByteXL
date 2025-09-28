@@ -11,7 +11,7 @@
 ## 📸 **Live Demo Screenshots**
 
 ### 🏠 **Homepage - Smart Retail Recommendations**
-![Homepage Screenshot](./screenshots/homepage.png)
+(https://github.com/harshith1476/ByteXL/blob/main/2.png)
 *Beautiful gradient background with AI-powered product recommendations and intuitive navigation*
 
 ### 📊 **Analytics Dashboard**
